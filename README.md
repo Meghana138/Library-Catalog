@@ -116,12 +116,6 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 * Give me a maximum of 24-48 hours to respond
 * Have proper documentation on the parts you are changing/adding
 
-#### Feel free to contribute
-
-## Developed & Maintained by
-[Sayan Mondal](https://github.com/S-ayanide) 
-[📷 Insta](https://www.instagram.com/s_ayanide/)
-[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Library-Manager.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FLibrary-Manager)
 
 ## License 
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/Library-Manager.svg?style=for-the-badge)](https://github.com/S-ayanide/Library-Manager/blob/master/LICENSE)
