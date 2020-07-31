@@ -17,26 +17,7 @@ Whereas in the Student Portal, they get rights to -
 
 You can either register as an Employee if you haven't done that yet or else just Login like any other portal, same applies to the Student portal. Once you register yourself you will be added to the serveside database from where your details will be fetched at the time of login.
 
-## Screenshots
-<img src="Images/Capture1.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="Images/Capture2.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="Images/Capture3.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="Images/Capture4.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="Images/Capture5.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="Images/Capture6.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> 
+
      
 ## NOTE:
 This project is subject to change by the developer and is still in development
@@ -115,22 +96,3 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 * Have proper documentation on the parts you are changing/adding
 
 
-## License 
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Library-Manager.svg?style=for-the-badge)](https://github.com/S-ayanide/Library-Manager/blob/master/LICENSE)
-```Copyright 2019 Sayan Mondal
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
-
-## Getting Started
-For help getting started with tkinter, view our online [documentation](https://docs.python.org/2/library/tkinter.html).
