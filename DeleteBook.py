@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jun  7 10:55:05 2019
 
-J.A.R.V.I.S Says Hello
-
-@author: Sayan
-"""
 
 from tkinter import *
 from PIL import ImageTk,Image
