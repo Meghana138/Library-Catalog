@@ -2,7 +2,7 @@
 
 
 A library management software where you can view all the book present in your library, issue books to student,and do a lot more with it. It also has a portal for both employees and students. 📚
-### 👉 If you like this repo then please give it a ⭐️
+
 
 ## Short Description
 This is a software which can efficiently manage your library. From performing tasks like viewing all the books to issuing books to students, it can do everything. It has two portals on the homepage, one for Employee and the other for Students. The Employee has all the rights to -
@@ -19,8 +19,6 @@ You can either register as an Employee if you haven't done that yet or else just
 
 
      
-## NOTE:
-This project is subject to change by the developer and is still in development
 
 ## Things you need before getting started --
 Install these packages if you don't have them already in your system
@@ -88,11 +86,6 @@ Running this is as simple as it gets. Follow this steps
 1. Clone this repository
 2. Double click on `main.py`
 
-## Pull Request
 
-Pull Requests are welcome. Please follow these rules for the ease of understanding:
-* Make sure to check for available issues before raising one
-* Give me a maximum of 24-48 hours to respond
-* Have proper documentation on the parts you are changing/adding
 
 
